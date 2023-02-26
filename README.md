@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavitra Mohandas</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavit939&label=Profile%20views&color=0e75b6&style=flat" alt="pavit939" /> </p>
+
 - 🌱 I’m currently pursuing **Masters of Science Computer Science(MSCS) at The University of Texas at Austin**
 
 - 🔭 Reach Me at [LinkedIn](https://www.linkedin.com/in/pavitra-mohandas/)
