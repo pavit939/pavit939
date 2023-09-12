@@ -6,7 +6,7 @@
 
 - 🔭 Reach Me at [LinkedIn](https://www.linkedin.com/in/pavitra-mohandas/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/1/folders/1ipHG5emXwqOlz5f8ePCFWLJV1McOb13X)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ooVFb8DRccshBeoFWBazt6beFjyfzM52/view?usp=sharing)
 
 - ⚡ Pronouns **"She" | "Her"**
 
